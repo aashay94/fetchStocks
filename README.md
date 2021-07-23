@@ -4,6 +4,6 @@ Steps to start the app
 
 ### `npm install`
 
-### 'npm start`
+### `npm start`
 
 
